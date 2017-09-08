@@ -19,13 +19,13 @@
 				<a href="https://twitter.com/" target="_blank">
 					<i class="fa fa-twitter fa-2x"></i>
 				</a>
-				<a href="http://linkedin.com/in/svundavalli" target="_blank">
+				<a href="http://linkedin.com/" target="_blank">
 					<i class="fa fa-linkedin fa-2x"></i>
 				</a>
-				<a href="https://plus.google.com/+SuveenkumarVundavalli" target="_blank">
+				<a href="https://plus.google.com/" target="_blank">
 					<i class="fa fa-google-plus fa-2x"></i>
 				</a>
-				<a href="https://github.com/suveenkumarchowdary" target="_blank">
+				<a href="https://github.com/" target="_blank">
 					<i class="fa fa-github fa-2x"></i>
 				</a>
 			</div>
